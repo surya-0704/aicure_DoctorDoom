@@ -6,11 +6,11 @@ To make train an AI model to accurately predict heart rate using prexistying dat
 
 ## Authors
 
-- [@surya](https://github.com/surya-0704)
-- [@utkarsh](https://github.com/Utkarshgupta56)
-- [@ramank](https://github.com/profresher149)
-- [@shubham](https://github.com/freeradical077)
-
+- [@surya](https://github.com/surya-0704)  Contact Number :- 7398421950
+- [@utkarsh](https://github.com/Utkarshgupta56)  Contact Number :- 9529133103
+- [@ramank](https://github.com/profresher149)  Contact Number :- 8302015242
+- [@shubham](https://github.com/freeradical077)  Contact Number :- 9310617046
+ 
 
 
 
