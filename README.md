@@ -3,7 +3,7 @@
 
 To make train an AI model to accurately predict heart rate using prexistying data.
 
-Find Data Report [here](https://github.com/surya-0704/aicure_DoctorDoom.git)
+Find Data Report [here]([https://github.com/surya-0704/aicure_DoctorDoom.git](https://drive.google.com/file/d/19PDXXyktyS61Yj22m1K6jeab9kYmFX8n/view?usp=drive_link)
 
 
 ## Authors
